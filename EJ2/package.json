@@ -1,0 +1,16 @@
+{
+  "name": "ej2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ej2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
